@@ -1,5 +1,7 @@
 # Week 16, Day 1: M-Pesa Inside the Shop
 
+> **AI boundaries this week:** 30% manual / 70% AI. Habit: *AI as integration engineer -- you direct the wiring, AI runs it, you verify every connection.* The money rule from Week 10 still holds. See [ai.md](../ai.md).
+
 By the end of today, clicking "Pay" on your Next.js shop triggers a real M-Pesa STK Push to the customer's phone. The order is marked `pending` in the database, the customer gets a push notification, they enter their PIN, and the payment request goes through Daraja. You will not yet handle the callback that marks the order `paid` -- that is tomorrow. Today is wiring the outgoing leg.
 
 You will reuse most of the M-Pesa code from Week 10. The new work is integrating it cleanly into the Next.js Server Action flow instead of the standalone Express endpoint.
