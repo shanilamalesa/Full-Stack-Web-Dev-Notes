@@ -1,5 +1,7 @@
 # Introduction to CSS
 
+> **AI boundaries this week:** 85% manual / 15% AI. Habit: *Compare and contrast -- your version first, AI version second, judge both.* See [ai.md](../ai.md).
+
 ## Learning Objectives
 By the end of this chapter, students will be able to:
 - Understand what CSS is and its role in web development.
