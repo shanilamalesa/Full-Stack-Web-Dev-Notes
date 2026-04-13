@@ -1,5 +1,7 @@
 # Lesson 4.1: The Callback Pattern & The Event Loop
 
+> **AI boundaries this week:** 65% manual / 35% AI. Habit: *Read the docs before the prompt -- open MDN first, every time.* See [ai.md](../ai.md).
+
 ## Objectives
 By the end of this lesson, you will be able to:
 - **Explain** how JavaScript handles asynchronous operations using the callback pattern.
