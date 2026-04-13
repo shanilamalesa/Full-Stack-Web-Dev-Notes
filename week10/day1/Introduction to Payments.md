@@ -1,5 +1,7 @@
 # Week 10, Day 1: Introduction to Payments
 
+> **AI boundaries this week:** 50% manual / 50% AI. Habit: *Never trust AI with money -- every line that touches an amount is hand-written and hand-reviewed.* See [ai.md](../ai.md).
+
 These are supplementary reading notes to accompany **The Backend Foundation** tutorial. Read these before or alongside the hands-on work. They give you the context behind what you are building and why it matters -- not just as a coding exercise, but as a tool that solves a real problem for real people.
 
 **Estimated reading time:** 15-20 minutes
