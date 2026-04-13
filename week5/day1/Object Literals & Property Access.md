@@ -1,5 +1,7 @@
 # Object Literals & Property Access
 
+> **AI boundaries this week:** 70% manual / 30% AI. Habit: *AI as code reviewer -- paste your working code, ask for a critique, decide what to accept.* See [ai.md](../ai.md).
+
 ## Learning Objectives
 By the end of this lesson, you will be able to:
 - Create JavaScript objects using object literal syntax.
