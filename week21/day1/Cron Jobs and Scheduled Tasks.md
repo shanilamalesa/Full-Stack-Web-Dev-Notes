@@ -1,5 +1,7 @@
 # Week 21, Day 1: Cron Jobs and Scheduled Tasks
 
+> **AI boundaries this week:** 30% manual / 70% AI. Habit: *AI writes schedules, you decide on reliability.* See [ai.md](../ai.md).
+
 By the end of today, you understand cron syntax, have a small scheduled task infrastructure running inside the Express server, and know the five common scheduled jobs that every real app ends up needing.
 
 **Prior-week concepts you will use today:**
