@@ -1,5 +1,7 @@
 # Week 27, Day 1: Capstone Kickoff
 
+> **AI boundaries this week:** 55% manual / 45% AI (ARCHITECTURE DIP). Habit: *Design is human work -- pen beats keyboard.* See [ai.md](../ai.md).
+
 Welcome to the Capstone Sprint. Four weeks. One real project. No more daily lessons of new concepts -- this phase is about applying everything you have learned to a single ambitious build.
 
 **Estimated time:** 2 hours (reading + planning).
